@@ -1,5 +1,5 @@
 #header{
-  background-color: blue;
+  background-color: lightblue;
 }
 #logo{
   max-width: 150px
@@ -12,4 +12,13 @@
 #dx{
 
   float: left;
+}
+#container{
+  background-color: lightblue;
+}
+
+#footer{
+  background-color: lightblue;
+  height: 40px;
+
 }
