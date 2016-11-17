@@ -1,0 +1,15 @@
+#header{
+  background-color: blue;
+}
+#logo{
+  max-width: 150px
+}
+#sx{
+  float: left;
+  margin-left: 20px;
+
+}
+#dx{
+
+  float: left;
+}
